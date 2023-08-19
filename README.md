@@ -1,4 +1,3 @@
 #Добрый день
 Меня зовут Анна, я студент Нетологии.
-![](C:\Users\akoch\Desktop\my\img)
-<img src="file:///C:/Users/akoch/Desktop/my/img/>
+![Описание картинки](/img/photo_2023-08-19_21-12-57.jpg)
